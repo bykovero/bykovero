@@ -1,5 +1,6 @@
 # About me
-
+---
+My name is Veronika Bykova and I'm currently a student at an austrian highschool.
 - 👋 Hi, I’m @bykovero
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
