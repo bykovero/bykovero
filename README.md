@@ -1,7 +1,10 @@
 # About me
 ---
-My name is Veronika Bykova and I'm currently a student at an austrian highschool.
-- 👋 Hi, I’m @bykovero
+My name is Veronika Bykova.
+
+-Currently learning to use Python with CS50 Introduction to Programming with Python
+
+👋 Hi, I’m @bykovero
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
