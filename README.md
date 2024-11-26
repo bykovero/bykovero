@@ -2,13 +2,11 @@
 ---
 My name is Veronika Bykova.
 
--Currently learning to use Python with CS50 Introduction to Programming with Python
+-Currently studying Robotics and working in IT.
 
 👋 Hi, I’m @bykovero
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'm currently learning how to program in C++ and ROS2 (Project Maze)
+- I'm currently working on a hexa-robot (Project Hexa)
 
 <!---
 bykovero/bykovero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
